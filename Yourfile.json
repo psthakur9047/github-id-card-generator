@@ -413,5 +413,10 @@
         "expirydate": "16-07-2026",
         "Allowoffline": true
     },
-    
+    {
+        "device_id": "27683e0a199cb1b2",
+        "key": "nandan",
+        "expirydate": "30-06-2026",
+        "Allowoffline": true
+    },
 ]
