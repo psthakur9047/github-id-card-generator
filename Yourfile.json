@@ -982,9 +982,17 @@
         "expirydate": "31-07-2026",
         "Allowoffline": true
     },
+    
     {
-        "device_id": "ae3cb0e673f28c24",
-        "key": "SARFARAZ",
+        "device_id": "27683e0a199cb1b2",
+        "key": "PANKAJ",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
+    },
+    
+    {
+        "device_id": "1f1da7cde5e470a6",
+        "key": "PANKAJ",
         "expirydate": "31-07-2026",
         "Allowoffline": true
     }
