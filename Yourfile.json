@@ -1008,12 +1008,7 @@
         "expirydate": "12-09-2026",
         "Allowoffline": true
     },
-    {
-        "device_id": "412f2efecd482995",
-        "key": "NMMS1",
-        "expirydate": "05-09-2026",
-        "Allowoffline": true
-    },
+    
     {
         "device_id": "f63fa6b591b3e5df",
         "key": "123456",
