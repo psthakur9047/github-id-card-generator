@@ -1016,6 +1016,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "a2101c15e626f79c",
+        "key": "STAR9",
+        "expirydate": "04-10-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "1f1da7cde5e470a6",
         "key": "11111",
         "expirydate": "04-10-2026",
