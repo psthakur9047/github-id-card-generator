@@ -986,26 +986,26 @@
     {
         "device_id": "27683e0a199cb1b2",
         "key": "PANKAJ",
-        "expirydate": "20-09-2026",
+        "expirydate": "10-10-2026",
         "Allowoffline": true
     },
     
     {
         "device_id": "1f1da7cde5e470a6",
         "key": "PANKAJ",
-        "expirydate": "30-09-2026",
+        "expirydate": "10-10-2026",
         "Allowoffline": true
     },
     {
         "device_id": "1aff760726f6dcc4",
         "key": "PANKAJ",
-        "expirydate": "30-09-2026",
+        "expirydate": "10-10-2026",
         "Allowoffline": true
     },
      {
         "device_id": "b43232807d64c9b0",
         "key": "PANKAJ",
-        "expirydate": "30-09-2026",
+        "expirydate": "10-10-2026",
         "Allowoffline": true
     },
     
@@ -1026,6 +1026,12 @@
         "device_id": "d20887ba771dddc1",
         "key": "NMMS9",
         "expirydate": "04-10-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f46b4ee1de15773d",
+        "key": "PANKAJ",
+        "expirydate": "10-10-2026",
         "Allowoffline": true
     },
     
