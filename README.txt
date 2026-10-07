@@ -1,3 +1,18 @@
+## 🌐 Live Demo
+
+🚀 Try the project online:
+
+[**Open GitHub ID Card Generator →**](https://psthakur9047.github.io/github-id-card-generator/)
+
+---
+
+## 📸 Project Preview
+
+![GitHub ID Card Generator Preview](./assets/preview.png)
+
+---
+
+## ✨ Features
 # 🪪 GitHub ID Card Generator
 
 A simple and responsive **Student ID Card Generator** built with HTML, CSS and JavaScript.
