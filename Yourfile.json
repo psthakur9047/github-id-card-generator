@@ -1022,6 +1022,12 @@
         "expirydate": "20-10-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1aff760726f6dcc4",
+        "key": "PANKAJ",
+        "expirydate": "25-10-2026",
+        "Allowoffline": true
+    },
     
     {
         "device_id": "1f1da7cde5e470a6",
