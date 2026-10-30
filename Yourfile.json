@@ -6,6 +6,13 @@
         "Allowoffline": true
     },
     {
+        "device_id": "d20887ba771dddc1",
+        "key": "VIJAY",
+        "expirydate": "20-11-2026",
+        "Allowoffline": true
+    },
+    
+    {
         "device_id": "78350ac172b83454",
         "key": "NMMS1",
         "expirydate": "20-10-2026",
@@ -686,7 +693,7 @@
     },
     {
         "device_id": "d20887ba771dddc1",
-        "key": "NMMS6",
+        "key": "VIJAY",
         "expirydate": "20-11-2026",
         "Allowoffline": true
     },
