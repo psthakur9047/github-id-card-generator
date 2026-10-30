@@ -6,6 +6,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "a2101c15e626f79c",
+        "key": "PANKAJ01",
+        "expirydate": "28-11-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "d29684be7ac88879",
         "key": "82OS72",
         "expirydate": "13-11-2026",
