@@ -1,725 +1,662 @@
 [
-   
     {
-        "device_id": "412f2efecd482995",
-        "key": "HAJRI",
-        "expirydate": "02-11-2026",
-        "Allowoffline": true
-    },
-   {
         "device_id": "1f1da7cde5e470a6",
+        "key": "SKP16",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d29684be7ac88879",
+        "key": "82OS72",
+        "expirydate": "13-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f4831c2523745cee",
+        "key": "OWAIIS",
+        "expirydate": "10-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e673f28c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "93667332b45a8696",
+        "key": "SWE92D",
+        "expirydate": "01-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "36d3d18d7476782a",
+        "key": "RAWAN2",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f46b4ee1de15773d",
         "key": "PANKAJ",
-        "expirydate": "09-11-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "9ae905166ee91f31",
-        "key": "KFJ6KF7FJ",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d20887ba771dddc1",
-        "key": "VIJAY",
-        "expirydate": "20-11-2026",
-        "Allowoffline": true
-    },
-    
-    {
-        "device_id": "78350ac172b83454",
-        "key": "NMMS1",
-        "expirydate": "20-10-2026",
-        "Allowoffline": true
-    },
-    
-    {
-        "device_id": "3bab3b64e936daf4",
-        "key": "S8DO6VO6",
-        "expirydate": "31-06-2026",
+        "expirydate": "07-11-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "7a05e9129d3e2260",
-        "key": "SA2B9A9B8GD",
-        "expirydate": "31-06-2026",
+        "device_id": "cdd9df285401c17a",
+        "key": "GHOGARE",
+        "expirydate": "13-10-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "79ffa338b0a76bc4",
-        "key": "Aayatkhan1001",
-        "expirydate": "31-06-2026",
+        "device_id": "b7ac3a3b7d05798b",
+        "key": "BHOLA",
+        "expirydate": "22-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "945ffd66b3af8306",
+        "key": "RONEY",
+        "expirydate": "31-10-2026",
         "Allowoffline": true
     },
     {
         "device_id": "7db9ee9cc9824917",
-        "key": "Aayatkhan1001",
-        "expirydate": "31-06-2026",
+        "key": "RONEY",
+        "expirydate": "31-10-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "24af2bc59b59eb9d",
-        "key": "AB9B8D83C",
-        "expirydate": "09-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "f55e13545c635efa",
-        "key": "S92B9H26D",
-        "expirydate": "20-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "f7608e0865f6c218",
-        "key": "SUMANDAS",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d96e67a124ed4204",
-        "key": "S8VDI8V95D",
-        "expirydate": "05-07-2026",
+        "device_id": "1549059c7c986c12",
+        "key": "MUDASIR",
+        "expirydate": "16-10-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "d912d348873ac447",
-        "key": "D93J923HES9",
-        "expirydate": "25-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d340615d6aa183d2",
-        "key": "SAR86DH8",
-        "expirydate": "10-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "b7ac3a3b7d05798b",
-        "key": "SAR38G7S",
-        "expirydate": "25-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "3c55418eb9752356",
-        "key": "O385SJGW",
-        "expirydate": "09-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "71d6d555759db9ff",
-        "key": "O6GDI8GI9",
-        "expirydate": "09-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "7c17af7d3728fe1c",
-        "key": "OM7F7589",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "af83045e090df2a4",
-        "key": "SHIV19AU9",
-        "expirydate": "26-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "691b1816db2c3d32",
-        "key": "O8F5NT68GS",
-        "expirydate": "24-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "a071034f501722e8",
-        "key": "O8H9AU289",
-        "expirydate": "09-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "1c6317d7b6452902",
-        "key": "O9E72B72",
-        "expirydate": "11-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "46ad8586cce02991",
-        "key": "OJW839B82",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ee4c8fadf29b9e91",
-        "key": "O9827J7W7",
-        "expirydate": "10-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d41c27e1bf3d9365",
-        "key": "O7FIR7R8",
-        "expirydate": "01-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "35c2a94639be499e",
-        "key": "O3JF5IF78",
-        "expirydate": "11-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "8ba4865a6e9a9590",
-        "key": "O75GE6F68",
-        "expirydate": "25-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "8d10eb941d05bc74",
-        "key": "OJF858H68",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "757a429fa36e2450",
-        "key": "M9WYW8292",
-        "expirydate": "11-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ac8c1122f00eb9a3",
-        "key": "M9WNSI292N",
-        "expirydate": "10-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "e9136421778d9bfe",
-        "key": "MJFJ86V64",
-        "expirydate": "21-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "abc2a56596f6030f",
-        "key": "M8FIR6GD7",
-        "expirydate": "12-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "8c83655a240800df",
-        "key": "SARFARAZ",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "dceaf9741c91298a",
-        "key": "OWAIS",
-        "expirydate": "12-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "89af18a0d85623b3",
-        "key": "M8F62R6GD7",
-        "expirydate": "05-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "305ce80c9171339e",
-        "key": "GEI6846D",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "9e60b50785629ab1",
-        "key": "W8FIR6GD7",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "5dfa7ddba7660e0a",
-        "key": "JDJ82S8S83",
-        "expirydate": "28-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "6108a5335fda06b7",
-        "key": "62FIR6GD7",
-        "expirydate": "17-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "7be8ea39f8ec1054",
-        "key": "W8FIR6GD7",
-        "expirydate": "07-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "37e4e4882cb247f6",
-        "key": "7FWY96GD7",
-        "expirydate": "15-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "    },
-    {
-        "device_id": "d29684be7ac88879",
-        "key": "6DIEIRNIT",
-        "expirydate": "01-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "b646a311783b44bc",
-        "key": "684BSURBD6",
-        "expirydate": "05-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "43ad1a7c155e506d",
-        "key": "CHETAN",
-        "expirydate": "29-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "1e69d7c3112ba923",
-        "key": "92BS82BS82",
-        "    },
-    {
-        "device_id": "e9136421778d9bfe",
-        "key": "SUMANDAS",
-        "expirydate": "29-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d96e67a124ed4204",
-        "key": "S8VDI8V95D",
-        "expirydate": "20-07-2026",
+        "device_id": "da024386c1cb7feb",
+        "key": "5HD8B8RK",
+        "expirydate": "05-11-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "d912d348873ac447",
-        "key": "D93J923HES9",
-        "expirydate": "25-06-2026",
-        "Allowoffline": true
+        "device_id": "ce212a98c4f3c176",
+        "key": "SANDIP2",
+        "expirydate": "30-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "d340615d6aa183d2",
-        "key": "SAR86DH8",
-        "expirydate": "10-06-2026",
-        "Allowoffline": true
+        "device_id": "71dd064b17ce50b8",
+        "key": "MDIWANE",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "b7ac3a3b7d05798b",
-        "key": "SAR38G7S",
-        "expirydate": "23-07-2026",
-        "Allowoffline": true
+        "device_id": "71a0681fd4e775da",
+        "key": "NA2710",
+        "expirydate": "15-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "3c55418eb9752356",
-        "key": "O385SJGW",
-        "expirydate": "09-06-2026",
-        "Allowoffline": true
+        "device_id": "440495448106c9cd",
+        "key": "NILESH",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "71d6d555759db9ff",
-        "key": "O6GDI8GI9",
-        "expirydate": "01-08-2026",
-        "Allowoffline": true
+        "device_id": "9eeb487564f8e095",
+        "key": "RAHUL",
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "7c17af7d3728fe1c",
-        "key": "OM7F7589",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
+        "device_id": "17edfcb39feb154a",
+        "key": "RISHABH",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "af83045e090df2a4",
-        "key": "SHIV19AU9",
-        "expirydate": "23-07-2026",
-        "Allowoffline": true
+        "device_id": "c1b7c8f8a00449ef",
+        "key": "SAURAV",
+        "expirydate": "12-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "691b1816db2c3d32",
-        "key": "O8F5NT68GS",
-        "expirydate": "24-06-2026",
-        "Allowoffline": true
+        "device_id": "0a30b57fa394a30d",
+        "key": "PATIL",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "a071034f501722e8",
-        "key": "O8H9AU289",
-        "expirydate": "09-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "1c6317d7b6452902",
-        "key": "O9E72B72",
-        "expirydate": "11-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "46ad8586cce02991",
-        "key": "OJW839B82",
-        "expirydate": "24-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ee4c8fadf29b9e91",
-        "key": "O9827J7W7",
-        "expirydate": "10-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d41c27e1bf3d9365",
-        "key": "O7FIR7R8",
-        "expirydate": "02-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "35c2a94639be499e",
-        "key": "O3JF5IF78",
-        "expirydate": "11-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "8ba4865a6e9a9590",
-        "key": "O75GE6F68",
-        "expirydate": "25-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "8d10eb941d05bc74",
-        "key": "OJF858H68",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "757a429fa36e2450",
-        "key": "M9WYW8292",
-        "expirydate": "12-08-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ac8c1122f00eb9a3",
-        "key": "M9WNSI292N",
-        "expirydate": "10-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "e9136421778d9bfe",
-        "key": "MJFJ86V64",
-        "expirydate": "21-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "abc2a56596f6030f",
-        "key": "M8FIR6GD7",
-        "expirydate": "12-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "8c83655a240800df",
-        "key": "SARFARAZ",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "dceaf9741c91298a",
-        "key": "OWAIS",
-        "expirydate": "12-08-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "89af18a0d85623b3",
-        "key": "M8F62R6GD7",
-        "expirydate": "05-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "305ce80c9171339e",
-        "key": "GEI6846D",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "9e60b50785629ab1",
-        "key": "W8FIR6GD7",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "5dfa7ddba7660e0a",
-        "key": "JDJ82S8S83",
-        "expirydate": "28-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "6108a5335fda06b7",
-        "key": "62FIR6GD7",
-        "expirydate": "17-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "66d977e5cbb5b21b",
-        "key": "W8FIR6GD7",
-        "expirydate": "24-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "37e4e4882cb247f6",
-        "key": "7FWY96GD7",
-        "expirydate": "16-08-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "eac2179edebc2a63",
-        "key": "68RGE848",
-        "expirydate": "15-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "52db735ace98e8d7",
-        "key": "OJD858V89T",
-        "expirydate": "15-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "0108f7c889c34e38",
-        "key": "ID8R8V58",
-        "expirydate": "20-08-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "3c0bd794a6839b3e",
-        "key": "OU58H688",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "eddf24b18ea283da",
-        "key": "I68T8G68F",
-        "expirydate": "20-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "6799f8a727c10c81",
-        "key": "8F74FSG6",
-        "expirydate": "27-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d31be380b243aa74",
-        "key": "OU58H688",
-        "expirydate": "26-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "da7c48c424f6533b",
-        "key": "S6DU5UR85",
-        "expirydate": "26-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "a288372dd0c09353",
-        "key": "JR7RV57495B",
-        "expirydate": "31-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "3699a98a9351b3e5",
-        "key": "UD75748G58",
-        "expirydate": "30-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "3e45e8230b29b7a4",
-        "key": "SA7DY5575",
-        "expirydate": "04-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "c38dab228dc8732d",
-        "key": "O6F484D84",
-        "expirydate": "10-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "e7741f0438094a43",
-        "key": "68SDTW5SY",
-        "expirydate": "05-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "7a72c21f40bbd80a",
-        "key": "86BS53J46",
-        "expirydate": "09-08-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d29684be7ac88879",
-        "key": "ATUL",
-        "expirydate": "03-08-2026",
-        "Allowoffline": true
+        "device_id": "cdb643128e0af9a6",
+        "key": "JAYKAR",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "b646a311783b44bc",
-        "key": "684BSURBD6",
-        "expirydate": "05-07-2026",
-        "Allowoffline": true
+        "key": "ARCHANA",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "43ad1a7c155e506d",
-        "key": "CHETAN",
-        "expirydate": "21-07-2026",
-        "Allowoffline": true
+        "device_id": "18222ba277c6f3e4",
+        "key": "ISHTIYAQ",
+        "expirydate": 01-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "1e69d7c3112ba923",
-        "key": "92BS82BS82",
-        "expirydate": "01-07-2026",
-        "Allowoffline": true
+        "device_id": "a9fd33de9eb3be7f",
+        "key": "O9E72B72",
+        "expirydate": "06-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "81ce2365e006d5c3",
-        "key": "OBF95BI59",
-        "expirydate": "06-07-2026",
-        "Allowoffline": true
+        "device_id": "02c0e7b2e328bc57",
+        "key": "TEKALESHASHI",
+        "expirydate": "30-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "603a8cc3369493d3",
-        "key": "6SYWFB67",
-        "expirydate": "01-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "7b09eb07135dd81a",
-        "key": "H38W9282B",
-        "expirydate": "03-07-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "b43232807d64c9b0",
-        "key": "PANKAJ",
+        "device_id": "8133773ec98f8d3e",
+        "key": "DNYANESH",
         "expirydate": "30-10-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "f0c9905622f75ed3",
-        "key": "19P829S72",
-        "expirydate": "23-07-2026",
+        "device_id": "51700d50590f55c6",
+        "key": "SANTOSH",
+        "expirydate": "30-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6305b85d95c276c7",
+        "key": "U282B82",
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0108f7c889c34e38",
+        "key": "HA729D",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4f66e69c562135ba",
+        "key": "U29N282",
+        "expirydate": "03-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2f94b44d34290622",
+        "key": "RAJESH",
+        "expirydate": "03-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0a21515fb19eef10",
+        "key": "SAURA",
+        "expirydate": "13-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "af83045e090df2a4",
+        "key": "SHIV",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "1d0571f410947491",
+        "key": "ROHIT",
+        "expirydate": "10-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d17d74f454a312dc",
+        "key": "PANDIT",
+        "expirydate": "07-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "dceaf9741c91298a",
+        "key": "OWAIS",
+        "expirydate": "30-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "a017f65b9b273c2c",
+        "key": "M8F62R6GD7",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "7a2d4fe33d065f50",
+        "key": "PANKAJ2",
+        "expirydate": "09-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "c99cfdae09290555",
+        "key": "3JSOE9VE",
+        "expirydate": "25-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "88c61d5219036a39",
+        "key": "74J9395",
+        "expirydate": "09-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "14bc0383f4922c09",
+        "key": "62FIR6GD7",
+        "expirydate": "25-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "261b7804b0cb9633",
+        "key": "SAN6S84",
+        "expirydate": "01-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "37e4e4882cb247f6",
+        "key": "7FWY96GD7",
+        "expirydate": "04-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "eac2179edebc2a63",
+        "key": "NITESH",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2e961af93e246343",
+        "key": "AKASH",
+        "expirydate": "23-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b87f980238327c1f",
+        "key": "U58R85D",
+        "expirydate": "09-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3e4bd68344147ef2",
+        "key": "OU58H688",
+        "expirydate": "25-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "331a91ab495c3b39",
+        "key": "NILESH1",
+        "expirydate": "16-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d53253c4b92960d9",
+        "key": "SHASHI2",
+        "expirydate": "28-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d31be380b243aa74",
+        "key": "AJAY",
+        "expirydate": "01-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0a30b57fa394a30d",
+        "key": "SACHIN4",
+        "expirydate": "27-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "8f21a989290c46a9",
+        "key": "ZAKIR10",
+        "expirydate": "20-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6799f8a727c10c81",
+        "key": "KARAN",
+        "expirydate": "20-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "34b07d33880f9e99",
+        "key": "PARBHUNATH",
+        "expirydate": "13-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "71d6d555759db9ff",
+        "key": "SUNIL2",
+        "expirydate": "24-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "c47d077d77afc0e8",
+        "key": "68SDTW5SY",
+        "expirydate": "08-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f645f96573af8216",
+        "key": "SACHIN15",
+        "expirydate": "05-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ae21502801eed53a",
+        "key": "LAXMAN",
+        "expirydate": "29-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e498a010980cdbb3",
+        "key": "GM",
+        "expirydate": "01-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "43ad1a7c155e506d",
+        "key": "CHETAN",
+        "expirydate": "10-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "43a5a932361127e1",
+        "key": "BHOODEV",
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4a6eb168a1999392",
+        "key": "SUNIL3",
+        "expirydate": "20-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "76ea3fe9e0c4aff7",
+        "key": "BRP",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6447d793ba4df685",
+        "key": "H38W9282B",
+        "expirydate": "18-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3025abd2bb08bcef",
+        "key": "BALAJI",
+        "expirydate": "23-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "56ae371299e8d35a",
+        "key": "aaaaa",
+        "expirydate": "03-11-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "0b8f88b835c3e67d",
         "key": "RAJKAMAL",
-        "expirydate": "18-08-2026",
-        "Allowoffline": true
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "6a0bad3e6a0fc48f",
+        "device_id": "08803db499fbc033",
         "key": "JSUWIE28",
-        "expirydate": "23-07-2026",
-        "Allowoffline": true
+        "expirydate": "11-09-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "71c53c9cabcf8f19",
-        "key": "S8FIR7TK9",
-        "expirydate": "18-07-2026",
-        "Allowoffline": true
+        "key": "VIJAY",
+        "expirydate": "16-09-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "bccfa0da78771cc1",
-        "key": "ZAHOOR",
-        "expirydate": "20-07-2026",
-        "Allowoffline": true
+        "device_id": "ac6199a07e817a20",
+        "key": "DAYANAND",
+        "expirydate": "03-11-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "8986c7e92fbb16d1",
         "key": "FIRDOUS",
-        "expirydate": "03-08-2026",
-        "Allowoffline": true
+        "expirydate": "03-09-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "347fc54ac545709b",
-        "key": "92B8292B82",
-        "expirydate": "31-07-2026",
-        "Allowoffline": true
+        "device_id": "432f1453da33e6ec",
+        "key": "VIKKI",
+        "expirydate": "31-10-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "9abc7782acff3e7a",
-        "key": "GOVIND",
-        "expirydate": "05-08-2026",
-        "Allowoffline": true
+        "device_id": "893aa835b6f28f89",
+        "key": "UW82BA1",
+        "expirydate": "28-10-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "68fe04724c4bad9e",
-        "key": "PRABHU",
-        "expirydate": "23-07-2026",
-        "Allowoffline": true
+        "device_id": "cd12a3ca12b4c5fa",
+        "key": "ZAKIR",
+        "expirydate": "05-09-2026",
+        "Allowoffline": false
     },
     {
         "device_id": "fdb9af2a14dd9e45",
         "key": "HANUMANT",
-        "expirydate": "08-08-2026",
-        "Allowoffline": true
+        "expirydate": "06-09-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "4a3b736d55ac396a",
+        "device_id": "0d209f98d8642dfa",
         "key": "SUBRA15",
-        "expirydate": "22-07-2026",
-        "Allowoffline": true
+        "expirydate": "03-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "de1d5b8b75cc191b",
-        "key": "IRSHAD",
-        "expirydate": "21-07-2026",
-        "Allowoffline": true
+        "device_id": "cfacd0c8ad087b0a",
+        "key": "JAYDEEP",
+        "expirydate": "27-09-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "5fb2475a4568318a",
-        "key": "O82N82B8",
-        "expirydate": "08-08-2026",
-        "Allowoffline": true
+        "device_id": "ae21502801eed53a",
+        "key": "LAKHAN",
+        "expirydate": "20-09-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "9440f22e921408e3",
-        "key": "9W83N28",
-        "expirydate": "09-08-2026",
-        "Allowoffline": true
+        "device_id": "fb554bbb4fdec085",
+        "key": "MARAVAT",
+        "expirydate": "06-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "93c30df398ec8772",
-        "key": "12345",
-        "expirydate": "30-10-2026",
-        "Allowoffline": true
+        "device_id": "89977aa6a0888c4d",
+        "key": "INDRASHEN",
+        "expirydate": "27-10-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "1f1da7cde5e470a6",
-        "key": "PANKAJ",
-        "expirydate": "30-10-2026",
-        "Allowoffline": true
+        "device_id": "284614055da8f147",
+        "key": "DAYANAND2",
+        "expirydate": "01-11-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "1f1da7cde5e470a6",
-        "key": "12345",
-        "expirydate": "30-11-2026",
-        "Allowoffline": true
+        "device_id": "93e43ca7d5aee889",
+        "key": "VIKAS",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "a2101c15e626f79c",
-        "key": "PANKAJ",
-        "expirydate": "28-11-2026",
-        "Allowoffline": true
+        "device_id": "b39a7da1941b2eed",
+        "key": "NAVEEN",
+        "expirydate": "16-10-2026",
+        "Allowoffline": false
     },
     {
-        "device_id": "d20887ba771dddc1",
-        "key": "VIJAY",
-        "expirydate": "20-11-2026",
-        "Allowoffline": true
+        "device_id": "652716dec844c5d9",
+        "key": "RAKESH",
+        "expirydate": "05-10-2026",
+        "Allowoffline": false
     },
-     {
-        "device_id": "f46b4ee1de15773d",
-        "key": "PANKAJ",
-        "expirydate": "20-11-2026",
-        "Allowoffline": true
+    {
+        "device_id": "a9c5ec74c3256f9d",
+        "key": "GOVINDKK",
+        "expirydate": "23-08-2026",
+        "Allowoffline": false
     },
-   {
-        "device_id": "412f2efecd482995",
-        "key": "HAJRI",
+    {
+        "device_id": "6ac52f8047c08c50",
+        "key": "RAJA15",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "07d1b8f289435ff1",
+        "key": "AFZAL30",
+        "expirydate": "18-09-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b9d13a65885333d9",
+        "key": "SA72939D",
+        "expirydate": "24-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9ae905166ee91f31",
+        "key": "SAR72N92",
+        "expirydate": "05-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3aea74906d70a257",
+        "key": "RAJENDRA",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "c2044bb1fe13644b",
+        "key": "S839S72",
+        "expirydate": "26-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "275df63cc32ef568",
+        "key": "UBAID",
         "expirydate": "10-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "1621ddf6d9c8a291",
+        "key": "SOMNATH",
+        "expirydate": "19-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f55e13545c635efa",
+        "key": "DEEPAK",
+        "expirydate": "25-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f645f9657f8216",
+        "key": "SACHIN",
+        "expirydate": "26-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "19edb9b4b412570e",
+        "key": "SANTHOSH",
+        "expirydate": "10-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "1d9bd1645cc89936",
+        "key": "IRSHAD",
+        "expirydate": "21-08-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "894caaccdfd6d844",
+        "key": "RANJEET",
+        "expirydate": "02-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d66d01fcc9d1b9d6",
+        "key": "GANI",
+        "expirydate": "16-09-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d5bd99ecba7eda98",
+        "key": "DURGESH",
+        "expirydate": "01-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2d639a048ca63628",
+        "key": "ANIL",
+        "expirydate": "03-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b930749e3fcb019a",
+        "key": "MUMTAZ",
+        "expirydate": "01-09-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "520d638e8c4e384c",
+        "key": "8SLW93BS",
+        "expirydate": "25-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b98a9892f2061efb",
+        "key": "PARSU",
+        "expirydate": "20-09-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e5ec0c335f396a02",
+        "key": "SHASHITEKALE",
+        "expirydate": "27-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "c8e28de8effd1724",
+        "key": "MANOJDADA",
+        "expirydate": "07-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e4c813725aeccb3d",
+        "key": "AJAY3",
+        "expirydate": "23-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "15f38eee8b0e4f97",
+        "key": "RAVIPAWAR",
+        "expirydate": "13-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6fd6cd2503505373",
+        "key": "MANDEEP",
+        "expirydate": "27-10-2026",
+        "Allowoffline": false
     },
 ]
