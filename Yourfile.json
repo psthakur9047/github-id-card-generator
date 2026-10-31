@@ -9,7 +9,7 @@
         "device_id": "b43232807d64c9b0",
         "key": "SKP16",
         "expirydate": "02-11-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "d20887ba771dddc1",
