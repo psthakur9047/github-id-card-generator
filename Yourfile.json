@@ -12,6 +12,18 @@
         "Allowoffline": false
     },
     {
+        "device_id": "1fa9a97406b017bc",
+        "key": "SKP18",
+        "expirydate": "10-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d20887ba771dddc1",
+        "key": "SKP19",
+        "expirydate": "10-11-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "ece80b63d22e4219",
         "key": "B1234",
         "expirydate": "12-11-2026",
