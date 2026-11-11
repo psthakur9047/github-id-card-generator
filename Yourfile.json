@@ -5,6 +5,13 @@
         "expirydate": "15-11-2026",
         "Allowoffline": false
     },
+
+        "device_id": "f46b4ee1de15773d",
+        "key": "SKP71",
+        "expirydate": "15-11-2026",
+        "Allowoffline": false
+    },
+    
     {
         "device_id": "cb368e33cd6d80e7",
         "key": "SKP41",
